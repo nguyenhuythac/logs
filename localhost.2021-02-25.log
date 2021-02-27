@@ -1,0 +1,20 @@
+25-Feb-2021 03:52:05.188 INFO [http-nio-8080-exec-118] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+25-Feb-2021 03:52:07.267 INFO [http-nio-8080-exec-118] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+25-Feb-2021 03:52:17.840 INFO [http-nio-8080-exec-123] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+25-Feb-2021 03:52:20.158 INFO [http-nio-8080-exec-123] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+25-Feb-2021 06:59:43.435 INFO [http-nio-8080-exec-137] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+25-Feb-2021 06:59:45.835 INFO [http-nio-8080-exec-137] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+25-Feb-2021 07:00:00.947 INFO [http-nio-8080-exec-135] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+25-Feb-2021 07:00:03.292 INFO [http-nio-8080-exec-135] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+25-Feb-2021 08:00:52.718 INFO [http-nio-8080-exec-147] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+25-Feb-2021 08:00:54.992 INFO [http-nio-8080-exec-147] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+25-Feb-2021 08:01:16.355 INFO [http-nio-8080-exec-144] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+25-Feb-2021 08:01:18.499 INFO [http-nio-8080-exec-144] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+25-Feb-2021 10:09:10.768 INFO [http-nio-8080-exec-169] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+25-Feb-2021 10:09:12.999 INFO [http-nio-8080-exec-169] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+25-Feb-2021 10:09:25.707 INFO [http-nio-8080-exec-171] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+25-Feb-2021 10:09:28.116 INFO [http-nio-8080-exec-171] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+25-Feb-2021 10:41:15.636 INFO [http-nio-8080-exec-179] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+25-Feb-2021 10:41:23.388 INFO [http-nio-8080-exec-179] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
+25-Feb-2021 10:41:31.052 INFO [http-nio-8080-exec-187] org.apache.catalina.core.ApplicationContext.log 2 Spring WebApplicationInitializers detected on classpath
+25-Feb-2021 10:41:33.338 INFO [http-nio-8080-exec-187] org.apache.catalina.core.ApplicationContext.log Initializing Spring embedded WebApplicationContext
